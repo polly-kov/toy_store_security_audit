@@ -1,4 +1,4 @@
-# Controls and compliance checklist exemplar
+# Controls and compliance checklist
 
 *Does Botium Toys currently have this control in place?*
 
